@@ -5,4 +5,5 @@ This repository consists of a three-stage hybrid skincare recommendation system 
 
 ## Repository Structure
 - **data/**: Input datasets used by the recommendation system.
+- **src/**: Source scripts used in scraping, text preprocessing, feature engineering, recommendation system architecture, and display the recommendations grid.
 - **skincare_recommendation_system_chemist_warehouse.ipynb**: The main notebook implementing the recommendation system.
