@@ -3,6 +3,8 @@
 ## Overview
 This repository consists of a three-stage hybrid skincare recommendation system using product catalog from Chemist Warehouse and an ingredients database from Renud. The system integrates three stages of components: constraint-based filtering, semantic ranking using bi-encoder or cross-encoder, and neural network quality assessmen to deliver recommendations for single-product and multi-product (routine) scenarios. The process includes web scraping, data preparation, exploratory data analysis (EDA), and model experimentation.
 
+**Publication Notice**: *This project is associated with a paper accepted and presented at the International Conference on Machine Learning and Soft Computing 2026 (ICMLSC 2026), currently in press. The abstract is available in this repository prior to full publication.*
+
 ## Repository Structure
 - **data/**: Input datasets used by the recommendation system.
 - **src/**: Source scripts used in scraping, text preprocessing, feature engineering, recommendation system architecture, and display the recommendations grid.
